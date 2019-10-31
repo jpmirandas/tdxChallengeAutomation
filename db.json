@@ -1,0 +1,16 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "under18": true,
+      "acceptRules": true,
+      "message": "Sorry, too young!"
+    },
+    {
+      "id": 2,
+      "under18": false,
+      "acceptRules": true,
+      "message": "Enjoy the site!"
+    }
+  ]
+}
